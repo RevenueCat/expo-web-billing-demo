@@ -1,3 +1,5 @@
+![RevenueCat Web Billing Tutorial Cover](@cover.png)
+
 # RevenueCat Web Billing Tutorial - Example Repository
 
 This is the complete example repository for the [RevenueCat blog article](https://www.revenuecat.com/blog/engineering/build-a-single-expo-app-with-subscriptions-on-ios-android-and-web-using-revenuecat/) on building a single Expo app with subscriptions across iOS, Android, and Web platforms.
