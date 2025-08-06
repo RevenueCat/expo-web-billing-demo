@@ -1,4 +1,4 @@
-![RevenueCat Web Billing Tutorial Cover](@cover.png)
+![RevenueCat Web Billing Tutorial Cover](/cover.png)
 
 # RevenueCat Web Billing Tutorial - Example Repository
 
